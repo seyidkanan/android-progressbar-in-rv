@@ -1,2 +1,3 @@
 # android-progressbar-in-rv
-Android Progressbar impl onMoreListener
+
+Test project for showing progressbar onMoreListener like RV element
